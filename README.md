@@ -23,7 +23,7 @@ monitor.cdnfly.cn
  
 节点安装命令只能centos7
 
-curl -fsSL https://github.com/jasontuyou/cdnfly/raw/main/agent.sh -o agent.sh  && chmod +x agent.sh && ./agent.sh --master-ver v5.1.13 --master-ip 你的ip --es-ip 你的ip --es-pwd es密码
+curl -fsSL https://github.com/followingly/cdnflydadao/raw/main/agent.sh -o agent.sh  && chmod +x agent.sh && ./agent.sh --master-ver v5.1.13 --master-ip 你的ip --es-ip 你的ip --es-pwd es密码
 
 重启主控
 
