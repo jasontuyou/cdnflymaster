@@ -1,5 +1,9 @@
 
-cdnfly5.1.13搭建教程 如不会搭建请联系 t.me/followingly付费搭建 50U一次
+cdnfly5.1.13搭建教程
+
+交流群
+
+https://t.me/+4BadEc7Gcg1lMjJl
 
 宝塔新建一个站点 添加域名
 
